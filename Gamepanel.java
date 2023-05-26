@@ -4,7 +4,7 @@ import javax.swing.JPanel;
 
 public class Gamepanel extends JPanel implements ActionListener {
   
-  GamePanel(){
+  Gamepanel(){
   
   }
   
